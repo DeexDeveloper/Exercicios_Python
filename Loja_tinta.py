@@ -1,5 +1,5 @@
 # LOJA DE TINTA
-======================== PROGRAMA LOJA DE TINTA
+
 import math
 #Recebendo a área e calculando os litros
 area = int(input("Digite a área, em m², a ser pintada:"))
